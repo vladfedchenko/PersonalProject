@@ -1,0 +1,550 @@
+1 Il GPL è un gas avente densità rispetto all'aria inferiore a 0,8. V F F 1
+2 I gas non possiedono forma e volume proprio ma assumono quelli del recipiente che li contiene. V F V 1
+3 I gas in funzione delle modalità di stoccaggio possono essere classificati come segue: gas compressi, gas liquefatti, gas refrigerati, gas disciolti. V F V 1
+4 Un gas più pesante dell'aria quando liberato dal proprio contenitore tende a stratificare ed a permanere nella parte bassa dell'ambiente ovvero a penetrare in cunicoli o aperture praticate a livello del piano di calpestio. V F V 1
+5 Ai fini della loro pratica utilizzazione i gas sono sempre conservati in contenitori che ne impediscono la fuoriuscita, sino al momento della loro utilizzazione. V F V 1
+6 A parità di volume del recipiente un gas liquefatto può essere conservato in quantità notevolmente superiore che se soltanto compresso. V F V 1
+7 Il metano è un gas leggero, cioè avente densità rispetto all'aria inferiore a 0,8 e, quando liberato in ambiente chiuso, tende a stratificare verso l'alto. V F V 1
+8 In funzione della loro densità rispetto all'aria i gas possono essere classificati come segue: gas leggero, gas pesante. V F V 1
+9 Per bruciare in presenza d'innesco un liquido infiammabile deve trovarsi a una temperatura superiore alla sua temperatura di infiammabilità. V F V 1
+10 Nei liquidi infiammabili la combustione avviene quando tra il pelo libero del liquido e l'atmosfera che lo sovrasta i vapori del liquido miscelati con l'ossigeno dell'aria si trovano in concentrazioni comprese nel campo d'infiammabilità. V F V 1
+11 I liquidi di categoria A sono quelli che hanno una temperatura di infiammabilità inferiore a 21°C. V F V 1
+12 In un liquido infiammabile tanto più è bassa la temperatura d'infiammabilità tanto prima si ha la possibilità che si formino vapori in quantità tale da essere incendiati.V F V 1 
+13 I liquidi infiammabili di categoria C sono quelli che hanno una temperatura d'infiammabilità compresa tra 21°C e 65°C. V F F 1 
+14 I liquidi infiammabili si dividono in tre categorie: A, B e C. V F V 1 
+15 La combustione delle sostanze solide è influenzata dalla pezzatura e forma del materiale.V F V 1
+16 Il legno, materia solida combustibile per eccellenza, può bruciare con fiamma più o meno viva od addirittura senza fiamma o carbonizzare a seconda delle condizioni in cui avviene la combustione. V F V 1
+17 I materiali combustibili solidi compatti se in pezzatura sufficientemente grande si accendono facilmente anche a temperature basse.V F F 1
+18 Un elemento che influenza la combustione dei solidi è la quantità di umidità in essi contenuta.V F V 1
+19 Il legno allo stato di segatura è estremamente pericoloso e, allorchè disperso in aria, può addirittura dar luogo ad esplosioni. V F V 1
+20 Il processo di combustione delle sostanze solide porta alla formazione di braci che sono costituite dai prodotti della combustione dei residui carboniosi della combustione stessa. V F V 1
+21 Il grado di porosità del materiale non è uno dei parametri che influenza la combustione delle sostanze solide. V F F 1
+22 Tanto più un pezzo di legno è piccolo tanto più facilmente può essere portato alla temperatura di accensione con sorgenti di calore di piccola energia.V F V 1
+23 Tra i parametri che influenzano la combustione delle sostanze solide detenute all'aperto c'è anche la condizione meteorologica atmosferica.V F V 1
+24 Il fosgene (COCl2) è un gas tossico che si può sviluppare durante la combustione di materiali che contengono il cloro, come per esempio alcune materie plastiche.V F V 1
+25 I principali effetti dell'incendio sull'uomo sono: insufficienza di ossigeno, azione tossica dei fumi, riduzione della visibilità, azione termica.V F V 1
+26 L'ossido di carbonio (CO) sviluppato negli incendi risulta pericoloso perchè tossico del sangue . V F V 1 
+27 Il calore è dannoso per l'uomo potendo causare la disidratazione dei tessuti, difficoltà o blocco della respirazione e scottature. V F V 1 
+28 Le misure di prevenzione hanno come obiettivo la riduzione del rischio. V F V 1 
+29 Gli ambienti in cui sono previste lavorazioni con fiamme libere non occorre che siano accuratamente controllati. V F F 1 
+30 I condotti di aspirazione di cucine, forni, seghe, molatrici, devono essere tenuti puliti con frequenza adeguata per evitare l'accumulo di grassi o polveri. V F V 1 
+31 Le prese di corrente multiple devono essere sovraccaricate per evitare surriscaldamenti degli impianti. V F F 1 
+32 I portacenere devono essere svuotati in recipienti costituiti da materiali facilmente combustibili ed il loro contenuto deve essere accumulato con altri rifiuti. V F F 1 
+33 I rifiuti non devono essere depositati, neanche in via temporanea, lungo le vie di esodo o dove possono entrare in contatto con sorgenti d'ignizione.V F V 1 
+34 Il personale che manipola sostanze infiammabili o chimiche pericolose deve essere adeguatamente addestrato sulle circostanze che possono incrementare il rischio d'incendio. V F V 1 
+35 Le aree del luogo di lavoro che normalmente non sono frequentate da personale ed ogni area dove un incendio potrebbe svilupparsi senza preavviso, devono essere tenute libere da materiali combustibili non essenziali. V F V 1 
+36 I materiali combustibili possono essere depositati nelle vicinanze di luoghi dove si effettuano lavori di saldatura o di taglio alla fiamma. V F F 1 
+37 Realizzando gli impianti elettrici a regola d'arte si consegue lo scopo di ridurre le possibilità d'incendio. V F V 1 
+38 La messa a terra di impianti, serbatoi ed altre strutture impedisce che su tali apparecchiature possa verificarsi l'accumulo di cariche elettrostatiche prodottesi per motivi di svariata natura. V F V 1 
+39 La ventilazione naturale od artificiale di un ambiente dove possono accumularsi gas o vapori infiammabili facilita l'insorgere di un incendio.V F F 2 
+40 L'adozione di pavimenti ed attrezzi antiscintilla risulta indispensabile qualora negli ambienti di lavoro venga prevista la presenza di gas, polveri o vapori infiammabili. V F V 1 
+41 Al fine di prevenire un incendio gli impianti di distribuzione di sostanze infiammabili vengono dotati di dispositivi di sicurezza di vario genere. V F V 1 
+42 La segnaletica di sicurezza, riferita in particolare ai rischi presenti nell'ambiente di lavoro, è una delle misure di protezione . V F V 2 
+43 Le misure di prevenzione incendi sono finalizzate alla riduzione della probabilità di accadimento di un incendio. V F V 1 
+44 La temperatura d'infiammabilità è la temperatura minima alla quale i liquidi combustibili emettono vapori in quantità tali da incendiarsi in caso d'innesco. V F V 1 
+45 Durante il flash-over la temperatura dell'ambiente aumenta velocemente. V F V 1 
+46 "Viene indicata come ""fase di incendio generalizzato"" quella situazione in cui il materiale partecipa nella sua totalità alla combustione."V F V 1 
+47 L'esplosione è il risultato di una rapida espansione di gas dovuta ad una reazione chimica di combustione. V F V 1 
+48 La temperatura di accensione o di autoaccensione è la temperatura alla quale la miscela combustibili-comburente inizia a bruciare spontaneamente in modo continuo senza ulteriore apporto di calore o di energia dall'esterno. V F V 1 
+49 Il limite inferiore di infiammabilità è la più bassa concentrazione in volume di vapore della miscela al di sotto della quale non si ha accensione in presenza d'innesco per carenza di combustibile. V F V 1 
+50 I limiti di infiammabilità individuano il campo di infiammabilità all'interno del quale si ha, in caso d'innesco, l'accensione e la propagazione della fiamma nella miscela. V F V 1 
+51 L'aria teorica di combustione è la quantità d'aria necessaria per raggiungere la combustione completa di tutti i materiali combustibili. V F V 1 
+52 Nell'evoluzione dell'incendio si possono individuare quattro fasi caratteristiche: fase d'ignizione, fase di propagazione, incendio generalizzato, estinzione e raffreddamento. V F V 1 
+53 La fase di propagazione di un incendio è caratterizzata anche dalla riduzione della visibilità a causa dei fumi della combustione. V F V 1
+54 Per ottenere lo spegnimento dell'incendio si deve ricorrere a uno o più dei seguenti sistemi: esaurimento del combustibile, soffocamento, raffreddamento. V F V 1 
+55 Per ciò che riguarda la sostanza comburente, un incendio, nella quasi totalità dei casi, viene alimentato dall'ossigeno naturalmente contenuto nell'aria. V F V 1 
+56 Si definisce come soffocamento, ai fini dello spegnimento dell'incendio, l'allontanamento o la separazione della sostanza combustibile dal focolaio d'incendio. V F F 1
+57 Per lo spegnimento di un incendio normalmente si utilizza una combinazione delle operazioni di esaurimento del combustibile, di soffocamento e di raffreddamento. V F V 1
+58 Si definisce come raffreddamento, ai fini dello spegnimento di un incendio, la sottrazione di calore fino ad ottenere una temperatura inferiore a quella necessaria al mantenimento della combustione. V F V 1
+59 Le condizioni necessarie per avere una combustione sono: presenza del combustibile, presenza del comburente e presenza di una sorgente di calore. V F V 1
+60 La combustione può avvenire anche senza sviluppo di fiamme superficiali. V F V 1
+61 La separazione del comburente dal combustibile o la riduzione della concentrazione di comburente in aria viene definita come soffocamento ai fini dello spegnimento di un incendio. V F V 1
+62 A seguito dell'incendio si sviluppano gas di combustione, fiamme, fumo e calore. V F V 1
+63 L'ossido di carbonio (CO) è un gas tossico. V F V 1
+64 I gas di combustione sono quei prodotti della combustione che rimangono allo stato gassoso anche quando raggiungono raffreddandosi la temperatura ambiente di riferimento di 15°C.V F V 1
+65 La produzione dei gas di combustione dipende dal tipo di combustibile, dalla percentuale di ossigeno presente e dalla temperatura raggiunta nell'incendio.V F V 1
+66 Il calore non è la causa principale della propagazione degli incendi. V F F 1
+67 "Le misure ""di protezione"" servono a ridurre le conseguenze dell'incendio."V F V 2
+68 I presidi antincendio sono degli strumenti di protezione attiva. V F V 2
+69 Le misure di protezione passiva vengono studiate in fase di progetto.V F V 2
+70 La rete idrica antincendio è un impianto che rientra nelle misure di protezione attiva.V F V 2
+71 La progettazione degli impianti tecnici di protezione attiva comprende l'addestramento delle squadre antincendio. V F F 2
+72 La protezione passiva è l'insieme delle misure di protezione che non richiedono l'azione di un uomo o l'azionamento di un impianto. V F V 2
+73 Le misure di protezione attiva sono quelle finalizzate alla precoce rilevazione dell'incendio, alla segnalazione e all'azione di spegnimento dello stesso. V F V 2
+74 La protezione attiva è l'insieme delle misure che non richiedono l'azione di un uomo o l'azionamento di un impianto. V F F 2
+75 Le misure di protezione passiva sono quelle che hanno come obiettivo la limitazione degli effetti dell'incendio . V F V 2
+76 Maggiore è il carico d'incendio maggiori saranno le conseguenze dell'incendio.V F V 2
+77 L'ordine e la pulizia riducono la probabilità dell'insorgenza dell'incendio. V F V 1
+78 In caso d'incendio, se l'azienda è dotata di una squadra di pronto intervento interna non serve chiamare i VVF.V F F 3
+79 Il rispetto di procedure operative dettagliate sull'ambiente di lavoro riduce il rischio di infortunio e migliora la gestione dell'emergenza. V F V 3
+80 Gli interventi di manutenzione su impianti e macchine sono misure di prevenzione incendi. V F V 1
+81 Le disposizioni sulla sicurezza sono facoltative. V F F 3
+82 In caso d'incendio è utile evacuare immediatamente il fumo ed il calore dal locale. V F V 3
+83 In caso d'incendio si può utilizzare qualsiasi tipo di estintore. V F F 2
+84 Per ogni dispositivo di sicurezza la verifica della funzionalità deve essere effettuata ogni sei mesi.V F F 1
+85 Sull'incendio di un serbatoio di benzina bisogna utilizzare la schiuma. V F V 1
+86 Il centralino deve disporre di tutti i numeri telefonici d'emergenza unitamente ai recapiti dei dirigenti, capi squadra, lavoratori, etc. V F V 3
+87 L'attività di informazione e formazione deve essere il più capillare possibile a tutti i livelli funzionali aziendali.V F V 3
+88 La combustione è una reazione chimica che produce anche gas. V F V 1
+89 Un incendio può essere spento per raffreddamento . V F V 1
+90 L'incendio di classe B è un incendio di metalli combustibili. V F F 1
+91 L'attrito è una sorgente di innesco. V F V 1
+92 La temperatura di infiammabilità è il valore più elevato di temperatura che è possibile raggiungere in un liquido infiammabile. V F F 1
+93 Il metano è un gas più pesante dell'aria.. V F F 1
+94 Il CO è un gas inodore e incolore. V F V 1
+95 La CO2 è un gas tossico e non asfissiante. V F F 1
+96 La realizzazione degli impianti elettrici a regola d'arte è una misura di prevenzione.V F V 1
+97 L'informazione e la formazione dei lavoratori è una misura di prevenzione.. V F V 3
+98 Gli estintori e gli idranti sono misure di protezione attiva. V F V 2
+99 L'illuminazione di sicurezza è una misura di protezione passiva. V F F 2
+100 Bisogna sempre tentare lo spegnimento di un incendio con i mezzi portatili. . V F F 3
+101 L'addestramento del personale è una componente importante della pianificazione di emergenza. V F V 3
+102 Dopo l'utilizzo di un estintore a CO2 è necessario areare il locale. V F V 2
+103 La squadra antincendio aziendale deve essere a conoscenza dei luoghi a rischio specifico presenti.V F V 3
+104 I vapori di benzina sono definiti comburenti. V F F 1
+105 Il soffocamento è la sottrazione di calore fino ad ottenere una temperatura inferiore a quella necessaria a mantenere la combustione. V F F 1
+106 La schiuma non è una sostanza estinguente. V F F 1
+107 La CO2 è un gas di combustione.V F V 1 
+108 Il fosgene è un gas a bassa tossicità. V F F 1
+109 La verifica degli estintori viene fatta ogni 12 mesi. V F F 2 
+110 Gli estintori e gli idranti non sono misure di protezione attiva. V F F 2
+111 La compartimentazione è una misura di protezione passiva. V F V 2
+112 La dicitura REI 60 su di un elemento indica che quell'elemento conserva la stabilità, la tenuta e l'isolamento termico per almento 60 minuti.V F V 2
+113 La reazione al fuoco di un matriale rappresenta il suo grado di partecipazione al fuoco. V F V 2
+114 La CO2 che fuoriesce da un estintore può provocare ustioni da freddo. V F V 2
+115 Uno degli obiettivi di un piano di emergenza è consentire l'evacuazione delle persone. V F V 3
+116 Un buon piano di emergenza è l'insieme di poche, semplici ed essenziali azioni comportamentali. V F V 3
+117 Per estinguere un incendio con un estintore è opportuno indirizzare il getto di estinguente alla sommità della fiamma .V F F 4
+118 In un incendio di gas da una tubazione è opportuno intercettarne la perdita piuttosto che tentare lo spegnimento.  V F V 3
+119 Gli impianti idrici antincendio non vanno tenuti privi d'acqua per evitare allagamenti o il congelamento dell'acqua. V F V 2
+120 Le squadre antincendio aziendale possono non essere a conoscenza dei luoghi a rischio specifico presenti.V F F 3
+121 Le schede di sicurezza delle sostanze pericolose presenti all'interno dell'azienda devono essere tenute a disposizione dei lavoratori. V F V 3
+122 Sull'incendio di una pozza di benzina bisogna utilizzare l' acqua a getto pieno. V F F 1
+123 I liquidi infiammabili sono classificati in base alla temperatura di infiammabilità nelle categorie A-B-C. V F V 1
+124 Le conseguenze dell'incendio vengono ridotte attuando le misure di protezione.V F V 1
+125 La verifica degli estintori deve essere fatta ogni 6 mesi.V F V 2
+126 Gli idranti sono del tipo UNI 45 E UNI 70. V F V 2
+127 Per un efficace intervento un idrante UNI 45 deve avere caratteristiche idrauliche pari almeno a: portata = 120 l/min e pressione = 2 bar al bocchello. V F V 2
+128 Un materiale che appartiene alla classe 5 di reazione al fuoco è detto ignifugo.V F F 2
+129 Un estintore di classe 21A 89BC non estingue un fuoco di materiale legnoso .V F F 2
+130 La rete a naspi è una particolare rete idrica antincendio. V F V 2
+131 Un impianto di spegnimento automatico ad acqua a secco è caratterizzato dal fatto che tutto l'impianto è permanentemente riempito di acqua. V F F 2
+132 I segnali di salvataggio sono rappresentanti su cartelli aventi lo sfondo di colore verde e le figure di colore bianco. V F V 2
+133 "E' opportuno che nella pianificazione di emergenza siano coinvolti soltanto alcuni lavoratori e cioè i cosiddetti ""freddi e tranquilli""." V F F 3
+134 Per l'utilizzo di un idrante UNI 70 è sufficiente un solo operatore. V F F 4
+135 Lo spegnimento di un incendio con due operatori deve essere effettuato posizionandosi in modo da formare un angolo di 180°. V F F 4
+136 La compartimentazione di un edificio è la suddivisione del suo spazio interno in spazi più piccoli per mezzo di strutture resistenti al fuoco. V F V 2
+137 La resistenza al fuoco può definirsi come l'attitudine di un elemento strutturale a conservare la stabilità, la tenuta e l'isolamento termico. V F V 2
+138 Con il simbolo REI 45 si identifica un elemento costruttivo che deve conservare la stabilità, la tenuta e l'isolamento termico per una temperatura di 45°C. V F F 2
+139 Nella sigla REI il simbolo E identifica la tenuta di un elemento costruttivo, che è l'attitudine dell'elemento a non lasciar passare nè produrre, se sottoposto all'azione del fuoco su un lato, fiamme, vapori o gas caldi sul lato non esposto al fuoco. V F V 2 
+140 Per una completa ed efficace compartimentazione i muri tagliafuoco è bene che abbiano delle aperture prive di serramenti. V F F 2
+141 Si possono trovare in commercio dei serramenti (porte) che hanno una resistenza al fuoco REI predeterminata. V F V 2
+142 Il rischio è la probabilità che si verifichino eventi che producono danni.V F V 1
+143 La sicurezza è l'attività finalizzata a rendere minimi i rischi. V F V 1
+144 La sicurezza antincendio è orientata alla salvaguardia dell'incolumità delle persone ed alla tutela dei beni e dell'ambiente. V F V 1
+145 "L'attuazione di tutte le misure per ridurre il rischio mediante la riduzione della sola frequenza di accadimento viene comunemente chiamata ""prevenzione""." V F V 1
+146 Il rischio di ogni evento incidentale risulta definito da due fattori: frequenza di accadimento e la gravità delle conseguenze. V F V 1
+147 Una possibile causa d'incendio è lasciare le apparecchiature elettriche sotto tensione anche quando non utilizzate. V F V 1
+148 Si parla di autocombustione quando senza alcun apporto dall'esterno (innesco), una sostanza combustibile si accende a seguito di una reazione di ossidazione, inizialmente lenta, con successivo graduale aumento della temperatura. V F V 1
+149 Le possibili modalità d'innesco possono essere suddivise in quattro categorie: accensione diretta, accensione indiretta, attrito, autocombustione. V F V 1
+150 Si parla di attrito quando il calore è prodotto dallo sfregamento di due materiali. V F V 1
+151 Si ha l'accensione diretta quando una fiamma, una scintilla o altro materiale incandescente entra in contatto con un materiale combustibile in presenza di ossigeno. V F V 1
+152 Gli idrocarburi alogenati sono sostanze combustibili usate nell'industria. V F F 1
+153 Uno dei meccanismi di estinzione della polvere chimica è il soffocamento. V F V 1
+154 L'uso delle schiume è controindicato sugli incendi di liquidi infiammabili. V F F 1
+155 L'uso di impianti di estinzione ad idrocarburi alogenati è vietato nei locali contenenti apparecchiature elettriche. V F F 1
+156 La schiuma è un agente estinguente che agisce per soffocamento e raffreddamento. V F V 1
+157 I prodotti della decomposizione delle polveri separano il combustibile dal comburente, raffreddano il combustibile incendiato e inibiscono il processo della combustione. V F V 1
+158 L'acqua quale agente estinguente è consigliato per incendi di apparecchiature elettriche.V F F 1
+159 L'azione estinguente delle schiume avviene per separazione del combustibile dal comburente e quindi per soffocamento. V F V 1
+160 L'utilizzo degli idrocarburi alogenati è stato recentemente limitato da disposizioni legislative emanate per la protezione della fascia di ozono stratosferico. V F V 1
+161 Il pericolo è una fonte di possibile danno fisico alle persone. V F V 1
+162 I fuochi di classe B sono quelli di materiali solidi. V F F 1
+163 I fuochi di classe C sono quelli di gas infiammabili. V F V 1
+164 La distinzione in classi di un incendio avviene tramite un numero: 1, 2, 3 e 4. V F F 1
+165 Qualora si intenda evitare di danneggiare il materiale sul quale viene erogata la sostanza estinguente è da preferire l'uso di estintori a polvere rispetto a quello ad anidride carbonica V F F 1
+166 Il principale vantaggio dell'uso di un getto d'acqua frazionato rispetto al getto pieno è la maggiore capacità di raffreddamento V F V 2
+167 La lancia innestata sulla tubazione serve anche per indirizzare il getto dell'acqua V F V 4
+168 Un impianto automatico di estinzione a secco ha le proprie tubazioni riempite di ghiaccio secco V F F 2
+169 La lancia serve anche a trasformare l'energia di pressione posseduta dall'acqua in velocità.V F V 2
+170 L'autorespiratore viene indossato prima di entrare nella zona a rischio. V F V 4
+171 La resistenza al fuoco di un elemento strutturale in acciaio si può migliorare rivestendolo con intonaco di cemento-vermiculite. V F V 2
+172 In caso di incendio in edifici civili o industriali è vietato usare i normali ascensori. V F V 3
+173 La combustione avviene ogni qualvolta si ha contatto tra un combustibile e un comburente.V F F 1
+174 La bassa temperatura di infiammabilità aumenta la pericolosità di un liquido infiammabile. V F V 1
+175 La temperatura di infiammabilità è la massima temperatura che si può raggiungere durante la combustione. V F F 1
+176 La resistenza al fuoco di una struttura si esprime in minuti. V F V 2
+177 Le strutture che presentano la migliore resistenza al fuoco sono quelle realizzate in acciaio. V F F 2
+178 Fra i principali provvedimenti di prevenzione incendi vi è quello di evitare l'uso di fiamme libere. V F V 1
+179 Il controllo dei rivelatori di fumo deve essere annotato su apposito registro. V F V 2
+180 In assenza del comburente è possibile che avvenga una combustione. V F F 1
+181 La classe d'incendio del tipo A corrisponde al combustibile solido. V F V 1
+182 I getti d'acqua sono efficaci quando non sono diretti contro le fiamme ma contro le sostanze combustibili da cui le fiamme si sprigionano. V F V 4
+183 Gli idrocarburi alogenati sono estinguenti che agiscono principalmente per inibizione della combustione. V F V 1
+184 Gli incendi di classe E vengono spenti con idrocarburi alogenati. V F V 1
+185 I combustibili possono presentarsi sia allo stato solido che liquido che gassoso. V F V 1
+186 La prevenzione incendi comprende misure tendenti a ridurre la probabilità dell'insorgere di un incendio e misure tendenti a limitarne le conseguenze. V F V 1
+187 Una miscela combustibile-comburente, allo stato gassoso, è sempre infiammabile, indipendentemente dalla percentuale di combustibile presente nella miscela stessa. V F F 1
+188 L'uso della schiuma è controindicato negli incendi di classe C D E . V F V 1
+189 Il raffreddamento rappresenta l'unica azione estinguente possibile in caso di incendio. V F F 1
+190 In caso di incendio in edifici civili o industriali è fatto divieto assoluto di usare le scale esterne.V F F 3
+191 L'estintore è un mezzo di primo intervento adatto allo spegnimento dei principi d'incendio.V F V 2
+192 L'agente estinguente contenuto in un estintore fuoriesce per l'azione della pressione interna o di un propellente. V F V 2
+193 Un estintore portatile può pesare Kg 30 . V F F 2
+194 Esistono estintori a polvere, ad acqua, ad anidride carbonica, ad idrocarburi alogenati. V F V 2
+195 Sugli estintori è installata una valvola di sicurezza. V F V 2
+196 Sull'etichettatura dell'estintore è indicato il tipo di focolare per il quale può essere utilizzato.V F V 2
+197 Gli estintori possono essere installati a 2 m di altezza dal pavimento. V F F 2
+198 È corretto aprire l'acqua prima che sia stata srotolata la manichetta. V F F 4
+199 Sono misure di protezione passiva le luci di emergenza, gli idranti, e gli evacuatori di fumo. V F F 2
+200 Sono misure di protezione attiva quelle che hanno bisogno per attivarsi di energia e/o dell'intervento dell'uomo. V F V 2
+201 Una combustione di vapori infiammabili può propagarsi a velocità elevata causando una esplosione. V F V 1
+202 Perché si verifichi una combustione è necessaria la presenza di un combustile, di ossigeno (aria) e di una sorgente di ignizione. V F V 1
+203 Gli idrocarburi alogenati sono adatti per estinguere un incendio di cataste di legna all'aperto. V F F 1
+204 La CO2 estingue per soffocamento e raffreddamento. V F V 1
+205 Per realizzare una compartimentazione si possono usare elementi resistenti al fuoco. V F V 2
+206 Un impianto automatico di estinzione incendi ad acqua frazionata è un valido impianto di protezione nel caso di incendi di classe A. V F V 2
+207 I fuochi di gas sono di classe G e si estinguono con schiuma. V F F 1
+208 Il calore si trasmette per conduzione, convezione e irraggiamento. V F V 1
+209 Gli ugelli degli impianti a pioggia (sprinkler) si rompono e lasciano uscire l'acqua quando viene raggiunta una certa temperatura. V F V 2
+210 Gli idrocarburi alogenati se riscaldati possono sviluppare sostanze tossiche. V F V 1
+211 In assenza del comburente è possibile che avvenga una combustione. V F F 1
+212 Il controllo degli evacuatori di fumo e calore deve essere annotato su un apposito registro. V F V 2
+213 Negli estintori il gas inerte propellente può essere l'aria.V F F 2
+214 I sistemi di protezione contro l'incendio possono essere attivi o passivi. V F V 2
+215 Al di sopra del limite superiore di infiammabilità la combustione è possibile. V F F 1
+216 Un estintore ad anidride carbonica è efficace all'aperto in presenza di forte ventilazione. V F F 1
+217 Il metano essendo più leggero dell'aria si disperde verso l'alto.V F V 1
+218 Un impianto di rilevazione incendi può essere collegato ad un impianto di spegnimento automatico. V F V 2
+219 Il rilevatore di fumo a ionizzazione è sensibile al calore. V F F 2
+220 Alcuni rilevatori di incendio sono sensibili al calore emanato dal fuoco. V F V 2
+221 Un combustibile a temperatura superiore a quella di accensione brucia se a contatto con aria. V F V 1
+222 La manutenzione periodica è prevista solo per gli estintori . Per idranti, luci di emergenza, rivelatori di fumo basta un controllo una tantum senza particolari scadenze. V F F 2
+223 L'acqua è adatta ad estinguere combustibili di classe A.V F V 1
+224 Per individuare una perdita da una bombola di gas infiammabile si usa una miscela di acqua saponata. V F V 1
+225 La schiuma è idonea a spegnere incendi di classe B. V F V 1
+226 Al di sopra della temperatura di autoaccensione è necessaria una scintilla per dare inizio alla combustione. V F F 1
+227 Il comburente più comune è l'idrogeno. V F F 1
+228 Per l'evacuazione celere di un edificio civile o industriale, in caso di incendio la squadra indirizzerà le persone verso gli ascensori. V F F 3
+229 Gli estintori a polvere non hanno bisogno di un sistema di pressurizzazione.V F F 2
+230 Il CO è pericoloso perché fortemente irritante. V F F 1
+231 Sono misure di protezione passiva quelle che hanno bisogno per attivarsi di energia e/o dell'intervento umano. V F F 1
+232 Gli idrocarburi alogenati non sono adatti per estinguere un incendio di cataste di legna all'aperto.V F V 1
+233 L'incendio di un trasformatore ad olio sotto tensione è opportuno estinguerlo con la schiuma. V F F 1
+234 Un impianto di spegnimento a diluvio prevede l'allagamento completo con almeno 10 cm d'acqua del locale protetto. V F F 2
+235 Le polveri antincendio sono un miscuglio di talco e polvere di ferro. V F F 1
+236 Fra i composti delle polveri vi possono essere solfato di ammonio e bicarbonato di sodio. V F V 1
+237 Per spegnere un incendio di apparecchiature elettriche sotto tensione il mezzo più idoneo è l'acqua. V F F 1 
+238 Un impianto automatico fisso di estinzione serve esclusivamente a dare l'allarme. V F F 2 
+239 Il maniglione antipanico serve a bloccare un'uscita di sicurezza. V F F 2 
+240 La classe d'incendio del tipo A corrisponde al combustibile solido. V F V 1 
+241 Gli idranti stradali sono derivati dall'acquedotto. V F V 2 
+242 È possibile depositare temporaneamente materiale sul percorso di una via d'esodo. V F F 2 
+243 Il vapore acqueo è uno dei prodotti di una combustione completa. V F V 1 
+244 L'incendio è una reazione chimica. V F V 1 
+245 Perchè avvenga un incendio devono esserci contemporaneamente i seguenti elementi: il comburente, il combustibile e un opportuna temperatura. V F V 1 
+246 Il combustibile è una sostanza in grado di bruciare. V F V 1 
+247 Il combustibile è sempre solido. V F F 1 
+248 Un combustibile può essere solido, liquido, o gassoso. V F V 1 
+249 Un combustibile può essere esclusivamente gassoso. V F F 1 
+250 Un combustibile può essere soltanto solido o liquido. V F F 1 
+251 Il combustibile solido prima di ardere deve essere riscaldato fino a diventare di colore rosso. V F F 1 
+252 Il combustibile solido prima di ardere deve distillare, per effetto del calore, vapori infiammabili. V F V 1 
+253 Il combustibile solido prima di ardere deve essere ridotto a piccoli pezzi. V F F 1 
+254 Il comburente è la sostanza che permette al combustibile di bruciare. V F V 1 
+255 Gli elementi che costituiscono il triangolo del fuoco sono: il combustibile e la temperatura. V F F 1 
+256 Gli elementi che costituiscono il triangolo del fuoco sono: il combustibile, il comburente e la temperatura. V F V 1 
+257 Per l'estinzione degli incendi si adotta il seguente principio: spegnere sempre con acqua o sabbia. V F F 1 
+258 Per l'estinzione degli incendi si adotta il seguente principio: attendere che le fiamme si abbassino e usare l'acqua. V F F 1 
+259 Le sostanze comunemente utilizzate per spegnere un incendio sono: acqua, sabbia, polvere chimica, anidride carbonica(CO2), schiuma, idrocarburi alogenati. V F V 1 
+260 L'acqua può essere utilizzata per spegnere qualsiasi tipo d'incendio. V F F 1 
+261 L'acqua non deve essere utilizzata per spegnere incendi che interessano apparecchiature elettriche in tensione. V F V 1 
+262 L'acqua è efficace soprattutto su fuochi di classe A (materiale solido combustibile). V F V 1 
+263 Alcune polveri estinguenti sono efficaci su tutti i tipi di fuochi V F V 1 
+264 Le polveri estinguenti non sono irritanti per le vie respiratorie. V F F 1 
+265 Le polveri estinguenti non danneggiano le apparecchiature delicate. V F F 1 
+266 L'anidride carbonica (CO2) è un gas che esce dalla bombola a temperatura ambiente. V F F 2 
+267 L'anidride carbonica (CO2) è efficace su fuochi che interessano le apparecchiature elettriche V F V 1 
+268 L'anidride carbonica (CO2) normalmente è solida. V F F 1 
+269 Gli estintori portatili pesano almeno 50 Kg. V F F 2 
+270 Gli estintori portatili devono essere utilizzati da almeno due persone contemporaneamente. V F F 2 
+271 L'estintore deve essere ubicato in posizione facilmente raggiungibile. V F V 2 
+272 L'estintore deve essere verificato ogni otto mesi V F F 2 
+273 Affinchè l'uso dell'estintore sia efficace indirizzare il getto verso la base del focolaio. V F V 4 
+274 Affinchè l'uso dell'estintore sia efficace porsi contro vento. V F F 4 
+275 Affinchè l'uso dell'estintore sia efficace indirizzare il getto sulla sommità delle fiamme. V F F 4 
+276 Sull' estintore di tipo approvato devono essere riportate le date delle revisioni effettuate. V F V 2 
+277 L'impianto idrico antincendio è costituito da: alimentazione, rete idrica e idranti o bocche da incendio. V F V 2 
+278 L'impianto idrico antincendio è costituito da: estintori portatili e carrellati. V F F 2 
+279 Gli idranti interni UNI45 devono essere posti in posizione tale che il getto possa raggiungere ogni punto del fabbricato. V F V 2 
+280 Gli idranti interni UNI45 devono essere posti in posizione tale che il getto possa raggiungere soltanto le aree a maggior rischio d'incendio. V F F 2 
+281 I gas che si sprigionano a seguito di un incendio dipendono principalmente dalla composizione chimica dei combustibili. V F V 1 
+282 Una sostanza si dice tossica quando la sua azione è tale da compromettere le funzioni o l'esistenza di un organismo. V F V 1 
+283 Una sostanza si dice tossica quando allo stato liquido emette vapori infiammabili. V F F 1 
+284 Il fumo è causa di propagazione dell'incendio. V F V 1 
+285 Il fumo è un prodotto della combustione che determina la diminuzione della temperatura. V F F 1 
+286 L'autorespiratore protegge dal calore. V F F 4 
+287 L'autorespiratore protegge dai gas di combustione. V F V 4 
+288 In prevenzione incendi le misure protettive riducono le occasioni d'incendio. V F F 2 
+289 In prevenzione incendi le misure protettive contengono le conseguenze dell'incendio. V F V 2 
+290 In prevenzione incendi le misure protettive riducono le occasioni di incendio e contengono le conseguenze. V F F 2 
+291 I prodotti del processo di combustione sono: fiamma ,calore, gas caldi, fumi. V F V 1 
+292 "L'incendio di norma viene suddiviso in due fasi: a) Fase iniziale o ignizione;b) Fase finale o estinzione." V F F 1 
+293 I fumi di un incendio sono formati da piccolissime particelle solide (aerosol) e liquide (nebbie o vapori condensati). V F V 1 
+294 I liquidi infiammabili di categoria A hanno il punto di infiammabilità compreso tra 21°C e 65°C. V F F 1 
+295 Il metano ha una densità rispetto all'aria superiore a 0,8. V F F 1 
+296 " Gli impianti di spegnimento automatico possono essere sia ad ""umido"" che a ""secco"" ." V F V 2 
+297 Caratteristica fondamentale della rete idrica antincendio è quella di dare la massima affidabilità in ogni momento. V F V 2 
+298 Il combustibile, il comburente e l'innesco fanno parte del triangolo del fuoco . V F V 1 
+299 Mancando uno degli elementi del triangolo del fuoco, si ha sempre l'incendio. V F F 1 
+300 L'odore caratteristico dell'ossido di carbonio è simile all'odore di zolfo. V F F 1 
+301 L'odore caratteristico dell'acido cianidrico è di mandorle amare. V F V 1 
+302 L'ossido di carbonio è un gas inodore. V F V 1 
+303 Il potere calorifico di un materiale rappresenta il calore sviluppato dall'unità di peso di quel materiale nel processo di combustione. V F V 1 
+304 La reazione al fuoco è il grado di partecipazione di un materiale combustibile al fuoco cui è sottoposto in condizioni specifiche di prova. V F V 2 
+305 La temperatura d'accensione è la minima temperatura necessaria per iniziare spontaneamente e mantenere la combustione. V F V 1 
+306 Si intende per temperatura di infiammabilità la temperatura minima necessaria per iniziare spontaneamente e mantenere la combustione. V F F 1 
+307 Si intende per temperatura di infiammabilità la temperatura minima alla quale un liquido sviluppa vapori che formano con l'aria una miscela infiammabile. V F V 1 
+308 Si intende per temperatura di infiammabilità la quantità di combustibile nell'aria necessario per la propagazione della fiamma. V F F 1 
+309 I prodotti della combustione sono calore, gas di combustione, fumo. V F V 1 
+310 I prodotti della combustione sono perossidi organici, idrocarburi. V F F 1 
+311 I prodotti della combustione sono il metano ed il propano. V F F 1 
+312 Qualsiasi tipo di estinguente può essere usato su ogni tipo di incendio. V F F 1 
+313 Qualche volta l'acqua può essere usata per spegnere un impianto elettrico sotto tensione che sta bruciando. V F F 1 
+314 In caso d'incendio l'energia elettrica deve essere sempre staccata. V F V 3 
+315 E' opportuno capovolgere un estintore durante l'opera di spegnimento quando le fiamme sono paricolarmente alte e vi sono liquidi infiammabili. V F F 4 
+316 Utilizzando contemporaneamente due' estintori per ottenere la massima efficacia occorre agire ponendosi in modo da formare un angolo massimo di 90 gradi. V F V 4 
+317 Utilizzando contemporaneamente due estintori per ottenere la massima efficacia occorre disporsi uno di fronte all'altro. V F F 4 
+318 Utilizzando contemporaneamente più' estintori per ottenere la massima efficacia occorre agire in modo da far giungere l'estinguente sulla parte alta delle fiamme. V F F 4 
+319 L'impianto Sprinkler è un tipo di estintore portatile. V F F 2 
+320 E' chiamato Sprinkler un impianto antincendio a pioggia. V F V 2 
+321 L'impianto sprinkler è un impianto antincendio con estinguente chiamato Sprinkler. V F F 2 
+322 La benzina è il comburente e l'aria è il combustibile. V F F 1 
+323 La benzina è il combustibile e l'aria è il comburente. V F V 1 
+324 I parametri di pericolosità delle sostanze infiammabili sono il limite inferiore di infiammabilità, limite superiore di infiammabilità, temperatura di autoaccensione, energia minima di innesco. V F V 1 
+325 I parametri di pericolosità delle sostanze infiammabili sono peso specifico, e viscosità. V F F 1 
+326 La tossicità è la capacità della sostanza di arrecare danni all'organismo umano quando viene assorbita mediante inalazione ingestione o contatto cutaneo. V F V 1 
+327 La tossicità è l'attitudine della sostanza a decomporsi in modo esplosivo. V F F 1 
+328 Gli incendi vengono distinti in 7 classi. V F F 1 
+329 Gli incendi vengono distinti in 4 classi. V F V 1 
+330 Gli incendi vengono distinti in 5 classi e 3 sottogruppi. V F F 1 
+331 Negli estintori il gas inerte propellente può essere l'anidride carbonica. V F V 2 
+332 Negli estintori il gas inerte propellente può essere l'azoto. V F V 2 
+333 Negli estintori il gas inerte propellente è l'aria compressa. V F F 2 
+334 E' detta temperatura di infiammabilità la temperatura minima alla quale un determinato liquido infiammabile emette vapori che in miscela con l'aria possono accendersi a seguito di innesco. V F V 1 
+335 Gli impianti elettrici devono essere progettati ed eseguiti a regola d'arte, per evitare che gli stessi possono costituire fonte d'incendio. V F V 1 
+336 Gli impianti elettrici devono essere progettati ed eseguiti a regola d'arte: per evitare che gli stessi possono costituire fonte d'incendio bisogna innalzare la temperatura dell'ambiente. V F F 1 
+337 I naspi antincendio devono essere posizionati vicino al telefono. V F F 2 
+338 "Viene indicata come ""fase di incendio generalizzato"" quella situazione in cui il materiale combustibile partecipa nella sua totalità alla combustione con valore della temperatura generalmente alto." V F V 1 
+339 "Il "" flash over "" è una fase dell'incendio in cui la temperatura diminuisce." V F F 1 
+340 " Il "" flash over "" è una fase dell'incendio in cui la temperatura cresce in tempi brevissimi fino a valori molto alti." V F V 1 
+341 "Il "" flash over "" è l'istante di tempo in cui l'incendio dalla fase di espansione passa ad incendio generalizzato." V F V 1 
+342 Un impianto automatico fisso di estinzione esclude inizialmente la necessità di intervento umano. V F V 2 
+343 Un impianto automatico fisso di estinzione serve esclusivamente a dare l'allarme. V F F 2 
+344 Un impianto automatico fisso di estinzione garantisce certamente la completa estinzione dell'incendio. V F F 2 
+345 In uno stabilimento la rete antincendio è realizzata per essere utilizzata da parte di addetti alla sicurezza interna dello stabilimento. V F V 2 
+346 In uno stabilimento la rete antincendio è realizzata per essere utilizzata dai visitatori. V F F 2 
+347 Le polveri di carbone in sospensione nell'aria sono esplosive. V F V 1 
+348 Le polveri di carbone in sospensione nell'aria non sono esplosive. V F F 1 
+349 Gli erogatori a schiuma sono adatti ad estinguere incendi di liquidi infiammabili (benzine,petrolio,etc.). V F V 2 
+350 Gli erogatori a schiuma sono adatti ad estinguere incendi di apparati elettrici in funzione. V F F 2 
+351 I più comuni tipi di rilevatori di incendio sfruttano una delle seguenti manifestazioni caratteristiche del fenomeno della combustione: calore, luce, fumo, gas. V F V 2 
+352 I più comuni tipi di rilevatori di incendio sfruttano una delle seguenti manifestazioni caratteristiche del fenomeno della combustione: acqua, vapor d'acqua. V F F 2 
+353 La resistenza al fuoco (R) delle strutture, è la capacità di mantenere, tra l'altro, inalterate le caratteristiche di isolamento acustico. V F F 2 
+354 Uno dei principali provvedimenti di protezione passiva consiste nella compartimentazione. V F V 2 
+355 Uno dei principali provvedimenti di protezione passiva consiste nel divieto di fumare. V F F 2 
+356 Uno dei principali provvedimenti di protezione passiva consiste nell'evitare l'uso di fiamme libere. V F F 2 
+357 La prevenzione incendi ha lo scopo di rendere più eleganti gli edifici. V F F 1 
+358 La prevenzione incendi ha lo scopo di ridurre la probabilità che l'incendio si manifesti e/o si propaghi. V F V 1 
+359 La reazione al fuoco di un materiale è riferita ai materiali di arredamento (moquettes, tendaggi). V F V 1 
+360 I rilevatori automatici di incendio vengono normalmente posizionati in alto perchè non si vedano. V F F 2 
+361 I rilevatori automatici di incendio vengono normalmente posizionati in alto perchè economicamente conveniente. V F F 2 
+362 I rilevatori automatici di incendio vengono normalmente posizionati in alto perchè i prodotti della combustione vanno verso l'alto. V F V 2 
+363 La capacità estinguente degli idrocarburi alogenati dipende dalla loro tossicità. V F F 1 
+364 Tra gli elementi di protezione attiva si annoverano le distanze di sicurezza interne. V F F 2 
+365 Tra gli elementi di protezione attiva si annoverano gli estintori. V F V 2 
+366 Tra gli elementi di protezione attiva si annoverano le scale a prova di fumo. V F F 2 
+367 Tra gli elementi di protezione attiva si annovera la compartizione. V F F 2 
+368 Tra gli elementi di protezione attiva si annoverano le scale protette. V F F 2 
+369 Tra gli elementi di protezione attiva si annovera l'addestramento antincendio del personale dipendente. V F V 2 
+370 Tra gli elementi di protezione attiva si annovera la ventilazione naturale. V F F 2 
+371 Tra gli elementi di protezione attiva si annoverano gli impianti di spegnimento automatico. V F V 2 
+372 Tra gli elementi di protezione attiva si annoverano le uscite di sicurezza. V F F 2 
+373 Tra gli elementi di protezione passiva si annoverano gli impianti di allarme acustico. V F F 2 
+374 Tra gli elementi di protezione passiva si annoverano le luci di sicurezza. V F F 2 
+375 Tra gli elementi di protezione passiva si annoverano le separazioni tra i reparti di lavorazione. V F V 2 
+376 Tra gli elementi di protezione passiva si annoverano gli impianti sprinkler. V F F 2 
+377 Tra gli elementi di protezione passiva si annoverano le vie d'esodo. V F V 2 
+378 Tra gli elementi di protezione passiva si annoverano gli estintori. V F F 2 
+379 In caso di incendio in edifici civili o industriali è fatto divieto assoluto di usare le scale protette. V F F 3 
+380 In caso di incendio in edifici civili o industriali è fatto divieto assoluto di usare gli idranti. V F F 3 
+381 In caso di incendio in edifici civili o industriali è fatto divieto assoluto di usare gli ascensori. V F V 3 
+382 In caso di incendio in edifici civili o industriali è fatto divieto assoluto di usare gli estintori. V F F 3 
+383 In caso di incendio in edifici civili o industriali è fatto divieto assoluto di usare i montacarichi. V F V 3 
+384 In caso di incendio in edifici civili o industriali è fatto divieto assoluto di usare le scale esterne. V F F 3 
+385 La produzione di calore è una manifestazione caratteristica dell'incendio. V F V 1 
+386 Alcuni tipi di rilevatori di incendio sfruttano, per il loro funzionamento manifestazioni caratteristiche della combustione come la luce. V F V 2 
+387 Le ringhiere delle scale devono essere capaci di sopportare una temperatura superiore a 100° per almeno 30 minuti primi. V F F 2 
+388 Le ringhiere delle scale devono essere capaci di sopportare la spinta della folla. V F V 2 
+389 Un incendio si può propagare da un edificio ad un altro adiacente a causa di presenza di umidità. V F F 2 
+390 Una adeguata ventilazione serve a sottrarre calore all'ambiente e ritardare la fase di flash over. V F V 2 
+391 Una adeguata ventilazione serve a sottrarre calore all'ambiente e ritardare l'evacuazione. V F F 2 
+392 Le classi di reazione al fuoco dei materiali sono determinate con prove di laboratorio. V F V 2 
+393 Le classi di reazione al fuoco dei materiali sono determinate con un esame visivo. V F F 2 
+394 La funzione dei muri tagliafuoco è di impedire la trasmissione del fuoco da una parte all'altra della struttura. V F V 2 
+395 La funzione dei muri tagliafuoco è di contenere e proteggere gli impianti elettrici. V F F 2 
+396 In un ambiente, per ridurre i danni provocati da un'esplosione, si realizzano adatte superfici il cui scopo è cedere per dare sfogo alle elevate pressioni prodotte dall'esplosione. V F V 2 
+397 0, 1, 2 sono numeri che corrispondono a classi di reazione al fuoco. V F V 2 
+398 0, 1, 2 sono numeri che corrispondono a classi di resistenza al fuoco. V F F 2 
+399 L' anidride solforosa può essere un prodotto della combustione. V F V 1 
+400 Il vapore acqueo può essere un prodotto della combustione. V F V 1 
+401 La resistenza al fuoco di un elemento strutturale in acciaio si può migliorare rivestendolo con malta di vermiculite - gesso. V F V 2 
+402 La resistenza al fuoco di un elemento strutturale in acciaio si può migliorare rivestendolo coi seguenti materiali: intonaco di cemento - vermiculite. V F V 2 
+403 La resistenza al fuoco di un elemento strutturale in acciaio si può migliorare rivestendolo con alluminio anodizzato. V F F 2 
+404 Per resistenza al fuoco delle strutture portanti si intende una proprietà della struttura che, esposta al fuoco, seguita ad assolvere la funzione statica cui è normalmente destinata. V F V 2 
+405 Soltanto le sostanze liquide e gassose sono combustibili. V F F 1 
+406 I comburenti sono sostanze che non partecipano alla combustione. V F F 1 
+407 Ogni sostanza infiammabile ha il proprio campo di infiammabilità . V F V 1 
+408 Le polveri di alcune sostanze possono essere esplosive. V F V 1 
+409 L'attività di prevenzione incendi si articola in prevenzione e protezione. V F V 2 
+410 Uno degli obiettivi principali del Piano di Emergenza è la definizione delle procedure di evacuazione delle persone. V F V 3 
+411 Uno degli obiettivi principali del Piano di Emergenza è la riduzione della frequenza di accadimento dell'incendio. V F F 3 
+412 Uno degli obiettivi principali del Piano di Emergenza è l'individuazione della reazione al fuoco dei materiali. V F F 3 
+413 In caso di principio d'incendio si deve tentare lo spegnimento con qualsiasi mezzo e ad ogni costo. V F F 3 
+414 In caso di principio d'incendio si deve tentare di iniziare lo spegnimento con mezzi portatili. V F V 3 
+415 Le procedure da adottare nelle chiamate di soccorso sono fornire indirizzo e numero di telefono, tipo di emergenza in corso, persone coinvolte, reparto coinvolto, stadio dell'evento e notizie sui materiali coinvolti e sul percorso stradale seguito. V F V 3 
+416 Occorre dare collaborazione ai VVF in caso di intervento solo se l'evento è di grosse dimensioni. V F F 3 
+417 Occorre dare collaborazione ai VVF in caso di intervento sempre, perchè la conoscenza dei luoghi e l'esperienza lavorativa consente un migliore svolgimento dell'intervento. V F V 3 
+418 In caso d'incendio è possibile usare l'ascensore solo se il capo ufficio dice che lo stesso è funzionante. V F F 3 
+419 In caso d'incendio è possibile usare l'ascensore solo quando l'incendio ha coinvolto il piano interrato e non si è ancora propagato ai piani alti dell'edificio. V F F 3 
+420 In caso d'incendio mai e per nessun motivo è possibile usare l'ascensore. V F V 3 
+421 Se si deve attraversare in un'emergenza un ambiente invaso dal fumo è preferibile camminare chinati e respirare tramite un fazzoletto preferibilmente bagnato. V F V 3 
+422 "E' preferibile affrontare un incendio con estintori portatili solo se si tratta di un fuoco di classe ""A""." V F F 3 
+423 E' preferibile affrontare un incendio con estintori portatili quando le dimensioni del focolaio sono tali da poter essere fronteggiate con tali mezzi. V F V 3 
+424 Le misure di protezione passiva sono adottate per prevenire l'insorgere dell'incendio. V F F 2 
+425 Le misure di protezione passiva sono adottate per limitare i danni dell'incendio. V F V 2 
+426 L'elemento costruttivo che, a seguito di una predeterminata sollecitazione termica mantiene la sola stabilità per un'ora, si identifica con il simbolo: R 60. V F V 2 
+427 L'elemento costruttivo che, a seguito di una predeterminata sollecitazione termica mantiene la sola stabilità per un'ora, si identifica con il simbolo: R30. V F F 2 
+428 Il numero e le dimensioni delle uscite di sicurezza sono proporzionali al numero di persone presenti nei locali. V F V 2 
+429 Il numero e le dimensioni delle uscite di sicurezza sono proporzionali al numero di addetti alla sicurezza. V F F 2
+430 Il numero e le dimensioni delle uscite di sicurezza sono proporzionali al numero di estintori previsti dalla normativa in materia. V F F 2 
+431 La segnaletica di sicurezza deve indicare fra l'altro la posizione degli estintori. V F V 2 
+432 La segnaletica di sicurezza deve indicare fra l'altro i muri tagliafuoco. V F F 2 
+433 La segnaletica di sicurezza deve indicare fra l'altro la posizione degli evacuatori di fumo e calore. V F F 2 
+434 In mancanza di energia elettrica l'illuminazione di sicurezza garantisce il proseguimento dell'attività lavorativa. V F F 2 
+435 In mancanza di energia elettrica l'illuminazione di sicurezza garantisce la sufficiente illuminazione delle vie di esodo. V F V 2 
+436 Per spegnere l'incendio di un quadro elettrico in tensione si deve usare l'acqua a getto pieno in mancanza di estintori. V F F 3 
+437 In una manichetta a corredo dell'idrante i raccordi sono un raccordo maschio e un raccordo femmina. V F V 4 
+438 In una manichetta a corredo dell'idrante i raccordi sono dello stesso tipo . V F F 4 
+439 In una manichetta a corredo dell'idrante i raccordi sono a scelta della ditta fornitrice. V F F 4 
+440 E' opportuno, prima di avvicinarsi all'incendio, provare l'estintore perchè potrebbe essere non utilizzabile. V F V 4 
+441 E' opportuno, prima di avvicinarsi all'incendio, non provare l'estintore perchè andrebbe sprecato parte dell'agente estinguente. V F F 4 
+442 Nel caso di un uso contemporaneo di due estintori, gli operatori devono disporsi uno di fronte all'altro per intervenire meglio sull'incendio. V F F 4 
+443 Nel caso di un uso contemporaneo di due estintori, gli operatori devono disporsi tenendo un angolo rispetto al fuoco non superiore a 90°. V F V 4 
+444 Nel caso di un uso contemporaneo di due estintori, gli operatori devono disporsi nella posizione che capita. V F F 4 
+445 Per ridurre una tubazione da 70 mm a 45 mm basta incastrare la tubazione piccola in quella più grossa. V F F 4 
+446 Per ridurre una tubazione da 70 mm a 45 mm si può usare un ripartitore o divisore. V F V 4 
+447 Ridurre una tubazione da 70 mm a 45 mm non è mai possibile. V F F 4 
+448 Lo scopo principale di un piano di emergenza è la corretta gestione degli eventi incidentali qualora si verifichino. V F V 3 
+449 Lo scopo principale di un piano di emergenza è annotare il numero di eventi che si verificano in un'azienda. V F F 3 
+450 Lo scopo principale di un piano di emergenza è evitare che un incidente possa accadere. V F F 3 
+451 Quando si scopre un incendio occorre comportarsi secondo le procedure stabilite dal piano di emergenza. V F V 3 
+452 Il combustibile è l'aria necessaria alla combustione. V F F 1 
+453 Il combustibile è una sostanza solida, liquida o gassosa che brucia. V F V 1 
+454 Il punto d'infiammabilità è la temperatura massima raggiunta dal prodotto durante la fase di massimo incendio. V F F 1 
+455 La combustione delle sostanze solide è influenzata dalla pezzatura e forma del materiale. V F V 1 
+456 Gli incendi di classe A sono incendi di materiali liquidi. V F F 1 
+457 Gli incendi di classe A sono incendi di materiali solidi. V F V 1 
+458 Gli incendi di classe A sono incendi di gas. V F F 1 
+459 Nella fase d'incendio generalizzato lo spegnimento è facile. V F F 1 
+460 Nella fase d'incendio generalizzato lo spegnimento è agevole. V F F 1 
+461 Nella fase d'incendio generalizzato lo spegnimento è difficile. V F V 1 
+462 Una temperatura di circa 50°C sul corpo umano non provoca danni. V F F 1 
+463 Durante un incendio si sviluppano gas tossici e inquinanti. V F V 1 
+464 L'ossido di carbonio (CO) è presente quando scarseggia il comburente (ossigeno). V F V 1 
+465 L'estinzione di un incendio si può ottenere per ventilazione. V F F 1 
+466 L'estinzione di un incendio si può ottenere per soffocamento. V F V 1 
+467 L'estinzione di un incendio si può ottenere per spostamento dei combustibili. V F V 1 
+468 Un estintore è un apparecchio contenente un agente estinguente. V F V 2 
+469 Un estintore è un apparecchio che contiene un liquido infiammabile. V F F 2 
+470 Un estintore è un apparecchio che contiene un agente comburente. V F F 2 
+471 La scelta di un estintore va fatta in base alla marca ed al colore. V F F 2 
+472 La scelta di un estintore va fatta in base al tipo di incendio ipotizzabile nel locale da proteggere. V F V 2 
+473 L'estintore va usato avendo cura che l'operatore si trovi sopravvento. V F V 4 
+474 L'estintore va usato avendo cura che l'operatore si trovi sottovento. V F F 4 
+475 L'estintore va usato avendo cura che l'operatore si trovi a circa 20 metri dalle fiamme. V F F 4 
+476 La schiuma è un agente estinguente costituito da acqua e aria. V F F 1 
+477 S' inizia l' opera di estinzione di un incendio con la garanzia di avere almeno un estintore di tipo carrellato. V F F 3 
+478 S' inizia l' opera di estinzione di un incendio con la garanzia di avere una via di fuga sicura alle proprie spalle. V F V 3 
+479 Gli impianti di rilevazione automatica d'incendio consentono il la misura esatta della temperatura dei locali. V F F 2 
+480 Gli impianti di rilevazione automatica d'incendio consentono tempi di intervento brevi. V F V 2 
+481 Gli evacuatori di fumo e calore consentono, fra l'altro, di agevolare lo sfollamento delle persone. V F V 2 
+482 Gli evacuatori di fumo e calore consentono, fra l'altro, di evitare che le fiamme emettano fumo. V F F 2 
+483 Gli evacuatori di fumo e calore consentono, fra l'altro, di ritardare il momento di flash - over (incendio generalizzato). V F V 2 
+484 "I ""naspi"" sono speciali idranti più piccoli e maneggevoli dei normali." V F V 2 
+485 "I ""naspi"" sono speciali idranti più ingombranti dei normali, ma con maggior portata." V F F 2 
+486 La ventilazione di locali a rischio di incendio è utile. V F V 2 
+487 La ventilazione di locali a rischio di incendio è dannosa. V F F 2 
+488 Ad ogni presa di corrente deve essere collegata solo un'utenza di carico adeguato. V F V 2 
+489 Il piano d'emergenza deve essere molto semplice. V F V 3 
+490 Il piano d'emergenza deve essere complesso e dettagliato. V F F 3 
+491 La richiesta telefonica di intervento dei soccorsi esterni deve essere breve e concitata. V F F 3 
+492 La richiesta telefonica di intervento dei soccorsi esterni deve essere dettagliata e calma. V F V 3 
+493 Gli estintori sono mezzi di estinzione fissi. V F F 2 
+494 Gli estintori sono mezzi di estinzione mobili. V F V 2 
+495 Un estintore di classe BC è in grado di spegnere un principio di incendio di combustibili solidi. V F F 2 
+496 Un estintore di classe BC è in grado di spegnere un principio di incendio di liquidi e gas combustibili. V F V 2 
+497 Un estintore di classe BC è in grado di spegnere un principio di incendio di combustibili solidi e gas infiammabili. V F F 2 
+498 Gli idranti sono mezzi di estinzione di tipo mobile. V F F 2 
+499 Gli idranti sono mezzi di estinzione di tipo fisso. V F V 2 
+500 Gli idranti stradali sono derivati da automezzo antincendio. V F F 2 
+501 Gli idranti stradali sono derivati da un corso d'acqua (fiume,torrente). V F F 2 
+502 Gli idranti stradali sono derivati dall'acquedotto del centro abitato. V F V 2 
+503 In caso di incendio bisogna telefonare al numero telefonico 118. V F F 3 
+504 In caso di incendio bisogna telefonare al numero telefonico 115. V F V 3 
+505 Le vie di esodo devono essere prive di ostacoli. V F V 3 
+506 Le vie di esodo devono essere poco visibili. V F F 3 
+507 Le vie di esodo devono essere di altezza minore di 2 metri.. V F F 3 
+508 La segnaletica che indica le uscite di sicurezza è di colore rosso. V F F 2 
+509 La segnaletica che indica le uscite di sicurezza è di colore azzurro. V F F 2 
+510 La segnaletica che indica le uscite di sicurezza è di colore verde. V F V 2 
+511 Per evitare che la combustione si verifichi spontaneamente (senza innesco) la temperatura dell'ambiente va mantenuta al di sotto della temperatura di accensione. V F V 1 
+512 L'acqua è un buon estinguente in quanto sottrae calore all'incendio. V F V 1 
+513 L'acqua è un buon estinguente in quanto può essere utilizzata su tutti i materiali. V F F 1 
+514 Se un liquido si trova ad una temperatura superiore alla propria temperatura di infiammabilità emette dei vapori in quantità tale da formare con l'aria una miscela che si accende in presenza di un innesco. V F V 1 
+515 Il campo di infiammabilità di un gas è sempre delimitato dal limite superiore e limite inferiore di infiammabilità. V F V 1 
+516 Gli estintori e gli idranti devono risultare ubicati in posizione segnalata con appositi cartelli e risultare costantemente fruibili. V F V 2 
+517 Gli estintori e gli idranti devono risultare bene nascosti per evitare il rischio di furti e danneggiamenti. V F F 2 
+518 Una rete di idranti UNI 45 deve essere mantenuta costantemente sotto pressione. V F V 2 
+519 Le uscite di sicurezza, visto che non sono normalmente utilizzate, possono rimanere, durante l'esercizio dell'attività, chiuse a chiave. V F F 3 
+520 La temperatura alla quale è conservata una sostanza combustibile solida condiziona la facilita' di innesco di un incendio. V F V 1 
+521 Le benzine hanno una temperatura di infiammabilità superiore a 21°C V F F 1 
+522 Le benzine hanno una temperatura di infiammabilità minore di 21°C V F V 1 
+523 I gas con densità relativa all'aria maggiore di 0,8 sono da considerarsi gas pesanti. V F V 1 
+524 Il carico d'incendio di un locale si calcola sommando i quantitativi dei combustibili presenti in quel locale. V F V 2 
+525 L'intervento della squadra antincendio e' finalizzato ad estinguere gli incendi in sostituzione dei Vigili del fuoco . V F F 3 
+526 L'intervento della squadra antincendio e' finalizzato ad estinguere gli incendi che si trovano nella fase iniziale. V F V 3 
+527 L'obbligo di segnalare eventuali pericoli nell'attività vige per tutti i dipendenti dell'unità lavorativa. V F V 3 
+528 L'obbligo di segnalare eventuali pericoli nell'attività vige esclusivamente per i componenti del Servizio di prevenzione e protezione antincendio. V F F 3 
+529 La squadra antincendio non ha tra i propri compiti quello di assicurare il rispetto delle condizioni e limitazioni di esercizio. V F F 3 
+530 La squadra antincendio ha tra i propri compiti quello di assicurare il rispetto delle condizioni e limitazioni di esercizio. V F V 3 
+531 I comburenti sono sostanze che non partecipano alla combustione. V F F 1 
+532 I comburenti sono sostanze che partecipano alla combustione. V F V 1 
+533 Durante un incendio all'interno di un edificio di notevole altezza e con presenza di molte persone la squadra antincendio, ai fini della loro evacuazione, indirizzerà le stesse verso scale a prova di fumo ove esistano. V F V 3 
+534 Durante un incendio all'interno di un edificio di notevole altezza e con presenza di molte persone la squadra antincendio ai fini della loro evacuazione dovrà indirizzare le stesse verso gli ascensori. V F F 3 
+535 In caso di incendio in edifici civili o industriali si possono usare gli ascensori antincendio. V F V 3 
+536 Fra i principali provvedimenti di prevenzione incendi vi è quello di evitare l'uso di fiamme libere. V F V 1 
+537 Tra gli elementi di protezione passiva si annoverano le scale a prova di fumo. V F V 2 
+538 Il vapore acqueo è uno dei prodotti della combustione. V F V 1 
+539 Durante l'evacuazione dal posto di lavoro si può tornare indietro per riprendere gli oggetti dimenticati. V F F 3 
+540 Durante l'evacuazione dal posto di lavoro non si può tornare indietro per riprendere gli oggetti dimenticati. V F V 3 
+541 Il raffreddamento rappresenta l'unica azione estinguente possibile in caso d'incendio. V F F 1 
+542 Il raffreddamento non rappresenta l'unica azione estinguente possibile in caso d'incendio. V F V 1 
+543 Il getto di un estintore raggiunge i 20 metri. V F F 4 
+544 Il getto di un estintore non raggiunge i 20 metri. V F V 4 
+545 Generalmente un estintore ad anidride carbonica è efficace soprattutto all'aperto e in presenza di forte ventilazione. V F F 1 
+546 Generalmente un estintore ad anidride carbonica non è efficace all'aperto e in presenza di forte ventilazione. V F V 1 
+547 La combustione avviene ogni qualvolta si crea una miscela tra due materiali combustibili. V F F 1 
+548 L'autorespiratore è un dispositivo di protezione attiva. V F F 4 
+549 Un impianto di rilevazione automatica non può azionare un impianto di spegnimento automatico. V F F 2 
+550 Un impianto di rilevazione automatica può azionare un impianto di spegnimento automatico. V F V 2 
