@@ -16,7 +16,7 @@ def main():
 
         correct_answers = []
 
-        letters = re.compile('[^a-z]')
+        letters = re.compile('[^a-z0-9]')
         for i in xrange(len(lines)):
             #print lines[i][-4]
             if (lines[i][-2] == ' '):
