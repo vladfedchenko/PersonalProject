@@ -4,7 +4,7 @@ import numpy as np
 import statistics_utils as su
 from scipy.stats import binom
 
-start_vec_size = 31
+start_vec_size = 2
 end_vec_size = 80
 
 
