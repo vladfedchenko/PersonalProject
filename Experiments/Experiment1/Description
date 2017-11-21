@@ -3,4 +3,5 @@ Experiment 1 - comparing the selection of columns by distance from uniform distr
 Steps:
 1). For different column vector sizes (10, 20, ..., 50):
 	I. Execute the algorithm of mapping creation with randomly selected colunms for many times (1000+?)
-	II. Find how the "distance to uniform" approach compares with random approach.
+	II. Find how the "distance to uniform" approach compares with random selection approach.
+2) Repeat step 1 for different dataset sizes.

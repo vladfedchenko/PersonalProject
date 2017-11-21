@@ -4,7 +4,7 @@ import numpy as np
 import statistics_utils as su
 from scipy.stats import binom
 
-start_vec_size = 30
+start_vec_size = 2
 end_vec_size = 80
 
 
@@ -55,7 +55,7 @@ def generate_mapping_old(lines, answers, combination):
 def generate_mapping(lines, answers, combination):
     answers = np.array(answers)
     p = len(answers[answers]) / float(len(answers))
-    print "True questions fraction: {0}".format(p)
+    #print "True questions fraction: {0}".format(p)
 
     letter_freq = su.calc_freq_over_cols(lines, combination)
 
@@ -132,10 +132,10 @@ def process_rect_data(lines, answers, line_len):
             break
         cur_vec_size += 1
 
-
-def main():
+def prepare_rectangle_data(args):
     if len(sys.argv) != 2:
         print "One argument required."
+        return None, None, None
     else:
         filename = sys.argv[1]  # first argument is always a script name
         if filename[0] != '/':
@@ -161,10 +161,7 @@ def main():
                 max_length = len(splitted[0])
             len_counter += len(splitted[0])
 
-        print "Min length:\t" + str(min_length)
         average_length = int(len_counter / len(lines))
-        print "Average lenght:\t" + str(average_length)
-        print "Max length:\t" + str(max_length)
 
         lines_rectangle = []
         for l in lines:
@@ -173,10 +170,18 @@ def main():
                 l_copy += l_copy
             l_copy = l_copy[0:max_length]
             lines_rectangle.append(l_copy)
+        return lines_rectangle, correct_responces, [min_length, average_length, max_length]
 
-        #process_rect_data(lines_rectangle, correct_responces, average_length)
-        process_rect_data(lines_rectangle, correct_responces, max_length)
-        # process_rect_data(lines_rectangle, correct_responces, min_length)
+
+def main():
+    lines_rectangle, correct_responces, lengths_list = prepare_rectangle_data(sys.argv)
+    if not(lines_rectangle is None):
+        print "Min length:\t" + str(lengths_list[0])
+        print "Average lenght:\t" + str(lengths_list[1])
+        print "Max length:\t" + str(lengths_list[2])
+        #process_rect_data(lines_rectangle, correct_responces, lengths_list[0])
+        #process_rect_data(lines_rectangle, correct_responces, lengths_list[1])
+        process_rect_data(lines_rectangle, correct_responces, lengths_list[2])
 
 
 if __name__ == "__main__":
