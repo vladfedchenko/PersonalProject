@@ -4,7 +4,7 @@ import numpy as np
 import statistics_utils as su
 from scipy.stats import binom
 
-start_vec_size = 2
+start_vec_size = 30
 end_vec_size = 80
 
 
@@ -55,22 +55,23 @@ def generate_mapping_old(lines, answers, combination):
 def generate_mapping(lines, answers, combination):
     answers = np.array(answers)
     p = len(answers[answers]) / float(len(answers))
+    print "True questions fraction: {0}".format(p)
 
     letter_freq = su.calc_freq_over_cols(lines, combination)
 
     correlation_list = su.calc_correlations(lines, answers, combination)
 
     sorted_corr_indices = np.argsort(correlation_list)[::-1]
-    cur_freq = 1.0
+    cur_freq = 0.0
     added_to_positive = 0
     k = len(combination)
     halfK = k / 2.0
 
-    cur_proba = binom.cdf(halfK, k, cur_freq)
+    cur_proba = 1.0 - binom.cdf(halfK, k, cur_freq)
     while cur_proba < p:
-        cur_freq -= letter_freq[su.alphabet[sorted_corr_indices[added_to_positive]]]
+        cur_freq += letter_freq[su.alphabet[sorted_corr_indices[added_to_positive]]]
         added_to_positive += 1
-        cur_proba = binom.cdf(halfK, k, cur_freq)
+        cur_proba = 1.0 - binom.cdf(halfK, k, cur_freq)
 
     mapping = {}
     for i in range(added_to_positive):
@@ -173,7 +174,7 @@ def main():
             l_copy = l_copy[0:max_length]
             lines_rectangle.append(l_copy)
 
-        # process_rect_data(lines_rectangle, correct_responces, average_length)
+        #process_rect_data(lines_rectangle, correct_responces, average_length)
         process_rect_data(lines_rectangle, correct_responces, max_length)
         # process_rect_data(lines_rectangle, correct_responces, min_length)
 
