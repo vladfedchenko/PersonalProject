@@ -5,6 +5,6 @@ Steps:
 2). Sort columns by this distance in ascending order. 
 3). For different column vector sizes (10, 20, ..., 80):
 	I. Execute the algorithm of mapping creation (by calculating letter correlation with answer)
-	with columns obtained by using "sliding window" on sorted columns list and evaluate the accuracy of the mapping.
+	with columns obtained by using "sliding window" approach on sorted columns list and evaluate the accuracy of the mapping.
 	II. Examine the accuracy by plotting it. (There should be a downward trend if lower distance to uniform 
 	distribution is a good way to select columns)

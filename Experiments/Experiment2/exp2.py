@@ -30,7 +30,7 @@ def main():
                 accuracy_list.append(test_accuracy)
 
             # plotting
-            fig = plt.figure(cur_figure, figsize=(6, 6))
+            fig = plt.figure(cur_figure, figsize=(10, 6))
             cur_figure += 1
             fig.suptitle('K = {0}'.format(vec_size))
             plt.plot(range(1, len(accuracy_list) + 1), accuracy_list, 'bo')
