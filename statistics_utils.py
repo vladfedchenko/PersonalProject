@@ -2,14 +2,14 @@ import scipy.special
 import numpy as np
 import math
 
-#alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'
+# alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'
 #          , 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't'
 #          , 'u', 'v', 'w', 'x', 'y', 'z']
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'
-          , 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't'
-          , 'u', 'v', 'w', 'x', 'y', 'z'
-          , '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'] #it was necessary to add numbers
+    , 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't'
+    , 'u', 'v', 'w', 'x', 'y', 'z'
+    , '0', '1', '2', '3', '4', '5', '6', '7', '8', '9']  # it was necessary to add numbers
 
 
 def calc_single_col_dist(column):
@@ -118,3 +118,9 @@ def calc_correlations(lines, answers, combination):
         correlation = calc_letter_correlation(letter, lines, answers, combination)
         correlations.append(correlation)
     return correlations
+
+
+def calc_entropy_of_col(column, frequency_map):
+    column = np.squeeze(np.asarray(column))
+    tmp = map(lambda x: frequency_map[x] * math.log(frequency_map[x], 2), column)
+    return -np.sum(tmp)

@@ -2,6 +2,7 @@ import sys
 import os
 import numpy as np
 import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
 
 sys.path.append(os.getcwd())
 
@@ -15,8 +16,8 @@ exp_step = 10
 def main():
     lines_rectangle, correct_responces, lengths_list = fd.prepare_rectangle_data(sys.argv)
     if not (lines_rectangle is None):
-        totat_variation_dist = su.calculate_total_var_dist(lines_rectangle, lengths_list[2])
-        sorted_cols_indices = np.argsort(totat_variation_dist)
+        total_variation_dist = su.calculate_total_var_dist(lines_rectangle, lengths_list[2])
+        sorted_cols_indices = np.argsort(total_variation_dist)
         cur_figure = 1
         for vec_size in range(exp_start, exp_end, exp_step):
             accuracy_list = []
@@ -33,7 +34,18 @@ def main():
             fig = plt.figure(cur_figure, figsize=(10, 6))
             cur_figure += 1
             fig.suptitle('K = {0}'.format(vec_size))
-            plt.plot(range(1, len(accuracy_list) + 1), accuracy_list, 'bo')
+            x = np.array(range(1, len(accuracy_list) + 1))
+            y = np.array(accuracy_list)
+            plt.plot(x, y, 'bo')
+
+            # plotting linear regression
+            x_pred = x.reshape(-1, 1)
+            model = LinearRegression(n_jobs=8)
+            model.fit(x_pred, y)
+            y_pred = model.predict(x_pred)
+            line = plt.plot(x, y_pred)
+            plt.setp(line, 'color', 'r', 'linewidth', 2.0)
+
             plt.ylabel('Accuracy')
             plt.xlabel('Sliding window')
             plt.savefig("Experiments/Experiment2/k{0}.png".format(vec_size))
