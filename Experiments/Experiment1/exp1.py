@@ -10,7 +10,7 @@ sys.path.append(os.getcwd())
 import find_dependency as fd
 import statistics_utils as su
 
-experiment_number = 10**5
+experiment_number = 10 ** 6
 bins_num = 50
 
 exp_start = 10
@@ -20,7 +20,7 @@ exp_step = 5
 
 def select_random_spaced_cols(vec_size, line_len):
     population = range(line_len)
-    #return random.sample(population, vec_size)
+    # return random.sample(population, vec_size)
     to_ret = []
     for i in range(vec_size):
         sample = random.sample(population, 1)[0]
@@ -68,7 +68,7 @@ def main():
                                             , lines_rectangle
                                             , correct_responces)
 
-            #minimal distance approach
+            # minimal distance approach
             totat_variation_dist = su.calculate_total_var_dist(lines_rectangle, line_len)
             sorted_cols_indices = np.argsort(totat_variation_dist)
 
@@ -78,13 +78,12 @@ def main():
 
             percentile = int(find_percentile(accuracy_list, test_accuracy))
 
-            #plotting the histogram
+            # plotting the histogram
             fig = plt.figure(cur_figure, figsize=(6, 6))
             cur_figure += 1
-            fig.suptitle('C = {3}, K = {0}\nTest accuracy: {1}, Percentile: {2}'.format(vec_size
-                                                                                        , test_accuracy
-                                                                                        , percentile
-                                                                                        , line_len))
+            fig.suptitle('C = {3}, K = {0}, Experiments: {4}\nTest accuracy: {1}, Percentile: {2}'
+                         .format(vec_size, test_accuracy, percentile, line_len, experiment_number))
+
             plt.hist(accuracy_list, bins=bins_num)
             plt.axvline(test_accuracy, c='r', label='Test accuracy')
             plt.xlabel('Accuracy')
