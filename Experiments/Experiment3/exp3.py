@@ -13,7 +13,8 @@ import statistics_utils as su
 def main():
     lines_rectangle, correct_responces, lengths_list = fd.prepare_rectangle_data(sys.argv)
     if not (lines_rectangle is None):
-        total_variation_dist = su.calculate_total_var_dist(lines_rectangle, lengths_list[2])
+        line_len = lengths_list[1]
+        total_variation_dist = su.calculate_total_var_dist(lines_rectangle, line_len)
         sorted_cols_indices = np.argsort(total_variation_dist)
 
         letter_frequency_map = su.calc_freq_over_cols(lines_rectangle, sorted_cols_indices)

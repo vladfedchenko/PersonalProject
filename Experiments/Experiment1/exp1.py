@@ -14,8 +14,8 @@ experiment_number = 10**5
 bins_num = 50
 
 exp_start = 10
-exp_end = 81
-exp_step = 10
+exp_end = 41
+exp_step = 5
 
 
 def select_random_spaced_cols(vec_size, line_len):
@@ -60,15 +60,16 @@ def main():
     lines_rectangle, correct_responces, lengths_list = fd.prepare_rectangle_data(sys.argv)
     if not (lines_rectangle is None):
         cur_figure = 1
+        line_len = lengths_list[1]
         for vec_size in range(exp_start, exp_end, exp_step):
             accuracy_list = run_experiments(vec_size
                                             , experiment_number
-                                            , lengths_list[2]
+                                            , line_len
                                             , lines_rectangle
                                             , correct_responces)
 
             #minimal distance approach
-            totat_variation_dist = su.calculate_total_var_dist(lines_rectangle, lengths_list[2])
+            totat_variation_dist = su.calculate_total_var_dist(lines_rectangle, line_len)
             sorted_cols_indices = np.argsort(totat_variation_dist)
 
             test_cols = sorted_cols_indices[:vec_size]
@@ -80,7 +81,10 @@ def main():
             #plotting the histogram
             fig = plt.figure(cur_figure, figsize=(6, 6))
             cur_figure += 1
-            fig.suptitle('K = {0}\nTest accuracy: {1}, Percentile: {2}'.format(vec_size, test_accuracy, percentile))
+            fig.suptitle('C = {3}, K = {0}\nTest accuracy: {1}, Percentile: {2}'.format(vec_size
+                                                                                        , test_accuracy
+                                                                                        , percentile
+                                                                                        , line_len))
             plt.hist(accuracy_list, bins=bins_num)
             plt.axvline(test_accuracy, c='r', label='Test accuracy')
             plt.xlabel('Accuracy')
