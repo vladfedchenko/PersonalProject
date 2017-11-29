@@ -10,7 +10,7 @@ import find_dependency as fd
 import statistics_utils as su
 
 exp_start = 10
-exp_end = 41
+exp_end = 36
 exp_step = 5
 
 def main():
