@@ -38,7 +38,7 @@ def main():
         fig.suptitle('Entropy of sorted by distance columns')
         plt.plot(x, entropy_list, 'bo')
         plt.xlabel('Sorted columns')
-        plt.ylabel('Entropy')
+        plt.ylabel('Entropy of the alphabet, bits')
 
         # plotting linear regression
         x_pred = x.reshape(-1, 1)
