@@ -10,11 +10,11 @@ sys.path.append(os.getcwd())
 import find_dependency as fd
 import statistics_utils as su
 
-experiment_number = 10 ** 6
+experiment_number = 2 * (10 ** 5)
 bins_num = 50
 
 exp_start = 10
-exp_end = 41
+exp_end = 36
 exp_step = 5
 
 
@@ -22,15 +22,31 @@ def select_random_spaced_cols(vec_size, line_len):
     population = range(line_len)
     # return random.sample(population, vec_size)
     to_ret = []
-    for i in range(vec_size):
-        sample = random.sample(population, 1)[0]
-        to_ret.append(sample)
+    restart = True
+    restart_count = 0
+    max_restart = 1000
+    while restart:
+        restart = False
+        for i in range(vec_size):
 
-        population.remove(sample)
-        if sample - 1 in population:
-            population.remove(sample - 1)
-        if sample + 1 in population:
-            population.remove(sample + 1)
+            if len(population) == 0:
+                restart = True
+                restart_count += 1
+                if restart_count == max_restart:
+                    return None
+
+                population = range(line_len)
+                to_ret = []
+                break
+
+            sample = random.sample(population, 1)[0]
+            to_ret.append(sample)
+
+            population.remove(sample)
+            if sample - 1 in population:
+                population.remove(sample - 1)
+            if sample + 1 in population:
+                population.remove(sample + 1)
 
     return to_ret
 
