@@ -9,13 +9,13 @@ sys.path.append(os.getcwd())
 import find_dependency as fd
 import statistics_utils as su
 
-exp_start = 10
-exp_end = 36
+exp_start = 5
+exp_end = 56
 exp_step = 5
 max_improvement_steps = 10 ** 3
 
 max_mapping_distance = 3
-max_col_distance = 3
+max_col_distance = 2
 
 improvement_print_freq = 1
 
@@ -129,21 +129,52 @@ def main():
         total_variation_dist = su.calculate_total_var_dist(lines_rectangle, line_len)
         sorted_cols_indices = np.argsort(total_variation_dist)
 
+        all_lists = {}
+
+        min_acc = 1.0
+        max_acc = 0.0
+        max_size = 0
+
         cur_figure = 1
         for vec_size in range(exp_start, exp_end, exp_step):
             print "Experiment K={0} started: {1}".format(vec_size, datetime.datetime.now())
             working_cols = sorted_cols_indices[:vec_size]
             mapping = fd.generate_mapping(lines_rectangle, correct_responces, working_cols)
             accuracy_list = improve_solution(lines_rectangle, correct_responces, working_cols, mapping, line_len)
+            all_lists[vec_size] = accuracy_list
+            cur_min = np.min(accuracy_list)
+            cur_max = np.max(accuracy_list)
+            cur_size = len(accuracy_list)
 
-            # plotting
-            fig = plt.figure(cur_figure, figsize=(10, 6))
-            fig.suptitle('C = {1}, K = {0}'.format(vec_size, line_len))
-            cur_figure += 1
-            plt.plot(range(len(accuracy_list)), accuracy_list, 'b')
-            plt.savefig("Experiments/Experiment4/k{0}.png".format(vec_size))
+            if min_acc > cur_min:
+                min_acc = cur_min
+            if max_acc < cur_max:
+                max_acc = cur_max
+            if cur_size > max_size:
+                max_size = cur_size
 
             print "Experiment K={0} finished: {1}".format(vec_size, datetime.datetime.now())
+
+        delta = (max_acc - min_acc) * 0.1
+        min_acc -= delta
+        max_acc += delta
+        max_size += 1
+
+        for vec_size in range(exp_start, exp_end, exp_step):
+            accuracy_list = all_lists[vec_size]
+            # plotting
+            fig = plt.figure(cur_figure, figsize=(10, 6))
+            fig.suptitle('Accuracy improvement\nC = {1}, K = {0}'.format(vec_size, line_len))
+            axis = plt.gca()
+            axis.set_ylim([min_acc, max_acc])
+            axis.set_xlim([-1, max_size])
+            cur_figure += 1
+            plt.plot(range(len(accuracy_list)), accuracy_list, 'b')
+
+            plt.ylabel('Accuracy')
+            plt.xlabel('Step')
+
+            plt.savefig("Experiments/Experiment4/k{0}.png".format(vec_size))
 
 
 if __name__ == "__main__":
