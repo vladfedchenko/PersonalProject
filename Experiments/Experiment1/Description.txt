@@ -1,7 +1,7 @@
 Experiment 1 - comparing the selection of columns by distance from uniform distribution with random selection (with spaces, no neighbor columns).
 
 Steps:
-1). For different column vector sizes (10, 20, ..., 80):
+1). For different column vector sizes (10, 15, ..., 35):
 	I. Execute the algorithm of mapping creation (by calculating letter correlation with answer) 
 	with randomly selected colunms for many times (10000+?)
 	II. Find how the "distance to uniform" approach compares with random selection approach.
