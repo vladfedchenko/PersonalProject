@@ -122,5 +122,6 @@ def calc_correlations(lines, answers, combination):
 
 def calc_entropy_of_col(column, frequency_map):
     column = np.squeeze(np.asarray(column))
+    column = np.unique(column)
     tmp = map(lambda x: frequency_map[x] * math.log(frequency_map[x], 2), column)
     return -np.sum(tmp)

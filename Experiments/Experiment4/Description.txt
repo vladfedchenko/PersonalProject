@@ -1,0 +1,6 @@
+Experiment 4 - explore the abbility to improve the accuracy of the initial solution.
+
+Steps:
+-obtain an initial solution by using described earlier approach (distance to uniform distribution, correlation of letters to the answer)
+-try to improve the solution step by step (try to improve both the mapping and the column selection) by exproling neighbors in the solution graph.
+-plot the improvements
