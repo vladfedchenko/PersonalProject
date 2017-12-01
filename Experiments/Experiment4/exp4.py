@@ -9,9 +9,9 @@ sys.path.append(os.getcwd())
 import find_dependency as fd
 import statistics_utils as su
 
-exp_start = 5
-exp_end = 56
-exp_step = 5
+exp_start = 10
+exp_end = 151
+exp_step = 10
 max_improvement_steps = 10 ** 3
 
 max_mapping_distance = 3
@@ -174,7 +174,7 @@ def main():
             plt.ylabel('Accuracy')
             plt.xlabel('Step')
 
-            plt.savefig("Experiments/Experiment4/k{0}.png".format(vec_size))
+            plt.savefig("Experiments/Experiment4/2k{0}.png".format(vec_size))
 
 
 if __name__ == "__main__":

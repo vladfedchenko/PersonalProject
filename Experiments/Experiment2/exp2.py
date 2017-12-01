@@ -10,8 +10,8 @@ import find_dependency as fd
 import statistics_utils as su
 
 exp_start = 10
-exp_end = 56
-exp_step = 5
+exp_end = 151
+exp_step = 10
 
 def main():
     lines_rectangle, correct_responces, lengths_list = fd.prepare_rectangle_data(sys.argv)

@@ -34,8 +34,19 @@ def main():
         plt.ylabel('Distance to uniform distribution')
         plt.savefig("Experiments/Experiment3/DistanceToUniform.png")
 
+        min_acc = np.min(entropy_list)
+        max_acc = np.max(entropy_list)
+
+        delta = (max_acc - min_acc) * 0.1
+        min_acc -= delta
+        max_acc += delta
+
         fig = plt.figure(2, figsize=(10, 6))
         fig.suptitle('Entropy of sorted by distance columns')
+        axis = plt.gca()
+        axis.get_yaxis().get_major_formatter().set_useOffset(False)
+        axis.set_ylim([min_acc, max_acc])
+        axis.set_xlim([-5, len(x) + 5])
         plt.plot(x, entropy_list, 'bo')
         plt.xlabel('Sorted columns')
         plt.ylabel('Entropy, bits')
