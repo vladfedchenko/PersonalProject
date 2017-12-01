@@ -14,8 +14,8 @@ experiment_number = 2 * (10 ** 5)
 bins_num = 50
 
 exp_start = 10
-exp_end = 36
-exp_step = 5
+exp_end = 101
+exp_step = 10
 
 
 def select_random_spaced_cols(vec_size, line_len):
