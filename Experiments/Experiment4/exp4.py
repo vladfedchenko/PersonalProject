@@ -14,8 +14,8 @@ exp_end = 151
 exp_step = 10
 max_improvement_steps = 10 ** 3
 
-max_mapping_distance = 3
-max_col_distance = 2
+max_mapping_distance = 2
+max_col_distance = 1
 
 improvement_print_freq = 1
 

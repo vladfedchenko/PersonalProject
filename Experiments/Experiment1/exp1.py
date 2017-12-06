@@ -10,7 +10,7 @@ sys.path.append(os.getcwd())
 import find_dependency as fd
 import statistics_utils as su
 
-experiment_number = 2 * (10 ** 5)
+experiment_number = 1 * (10 ** 4)
 bins_num = 50
 
 exp_start = 10
