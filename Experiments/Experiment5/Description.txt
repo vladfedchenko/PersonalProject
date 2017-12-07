@@ -1,0 +1,9 @@
+Experiment 5 - exploring the Medicina dataset.
+
+Steps:
+1). For different column vector sizes (10, 20, ...):
+	I. Randomly generate a mapping using randomly selected columns (with spaces) for many times.
+	II. Evaluate the accuracy.
+2). Plot the histogram of calculated accuracies, add a line that shows the random guess accuracy, add a line for mapping and columns obtained using the distance to uniform distribution and correlation of characters with the answer approach.
+
+
