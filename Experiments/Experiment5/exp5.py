@@ -10,10 +10,10 @@ sys.path.append(os.getcwd())
 import find_dependency as fd
 import statistics_utils as su
 
-experiment_number = 5 * (10 ** 4)
+experiment_number = 5 * (10 ** 3)
 bins_num = 50
 
-exp_start = 5
+exp_start = 10
 exp_end = 101
 exp_step = 10
 
@@ -21,7 +21,8 @@ exp_step = 10
 def generate_random_mapping():
     mapping = {}
     for letter in su.alphabet:
-        mapping[letter] = random.randint(0, 1)
+        mapping[letter] = int(random.randint(0, 4) % 5 == 0)
+    #print mapping
     return mapping
 
 
