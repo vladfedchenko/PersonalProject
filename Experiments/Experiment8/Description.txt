@@ -1,0 +1,1 @@
+Explore the change of the accuracy when reducing the size of the tree.
