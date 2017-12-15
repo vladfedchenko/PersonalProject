@@ -12,9 +12,9 @@ import statistics_utils as su
 import decision_trees as dt
 
 
-dist_start = 1
-dist_end = 20
-dist_step = 2
+dist_start = 50
+dist_end = 55
+dist_step = 10
 
 dist_experiment_count = 10 ** 2
 
@@ -77,7 +77,7 @@ def main():
             plt.ylabel('Appearances')
             plt.legend(handles=[rnd_line, aver_line], loc=2)
             plt.ioff()
-            plt.savefig("Experiments/Experiment7/md{0}.png".format(dist))
+            plt.savefig("Experiments/Experiment7/id{0}.png".format(dist))
 
             print 'Distance {0} of {1} ended: {2}'.format(dist, dist_end, datetime.datetime.now())
             sys.stdout.flush()
