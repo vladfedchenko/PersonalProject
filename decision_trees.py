@@ -9,7 +9,7 @@ import datetime
 
 
 order_tries = 10 ** 4
-ratio_search_dist = 10
+def_ratio_search_dist = 1
 
 def gini_index(permutation, frequency_map):
     increment = 1.0 / len(permutation)
@@ -68,7 +68,7 @@ def train_model(train_data, correct_responces):
         print '___________________________'
 
 
-def find_split_ratio(column, correct_responces, alpha_order):
+def find_split_ratio(column, correct_responces, alpha_order, ratio_search_dist):
     distance_counter = 0
     start_distance_count = False
     cur_ratio = 0.0
@@ -107,45 +107,45 @@ def find_split_ratio(column, correct_responces, alpha_order):
     return cur_split, cur_ratio, cur_questions_classified
 
 
-def learn_decision_tree(train_data, correct_responces, alpha_order):
+def learn_decision_tree(train_data, correct_responces, alpha_order, ratio_search_dist):
     model = []
     init_count = train_data.shape[0]
-    with tqdm(total=init_count) as pbar:
-        pbar.set_description("Classifying questions")
-        while train_data.shape[0] > 0:
-            best_split = None
-            best_split_ratio = 0.0
-            best_classified_count = 0
-            for col in train_data.columns:
-                split, ratio, classified_count = find_split_ratio(train_data[col], correct_responces, alpha_order)
-                if ratio > best_split_ratio or (ratio == best_split_ratio and best_classified_count < classified_count):
-                    best_split = (col, split[0], split[1])
-                    best_split_ratio = ratio
-                    best_classified_count = classified_count
-            assert not(best_split is None)
-            correct_responces = correct_responces[train_data[best_split[0]] > best_split[1]]
-            train_data = train_data[train_data[best_split[0]] > best_split[1]]
-            model.append(best_split)
-            pbar.update(best_classified_count)
+    #with tqdm(total=init_count) as pbar:
+        #pbar.set_description("Classifying questions")
+    while train_data.shape[0] > 0:
+        best_split = None
+        best_split_ratio = 0.0
+        best_classified_count = 0
+        for col in train_data.columns:
+            split, ratio, classified_count = find_split_ratio(train_data[col], correct_responces, alpha_order, ratio_search_dist)
+            if ratio > best_split_ratio or (ratio == best_split_ratio and best_classified_count < classified_count):
+                best_split = (col, split[0], split[1])
+                best_split_ratio = ratio
+                best_classified_count = classified_count
+        assert not(best_split is None)
+        correct_responces = correct_responces[train_data[best_split[0]] > best_split[1]]
+        train_data = train_data[train_data[best_split[0]] > best_split[1]]
+        model.append(best_split)
+            #pbar.update(best_classified_count)
     return model
 
 
 def evaluate_model(model, train_data, correct_responces):
     correct_predictions = 0.0
-    with tqdm(total=len(correct_responces)) as pbar:
-        pbar.set_description("Evaluating questions")
-        for i in range(len(correct_responces)):
-            resp = correct_responces[i]
-            question = train_data.iloc[i:i + 1]
-            pred_responce = None
-            for col, threshold, cls in model:
-                # print int(question[col])
-                if int(question[col]) <= threshold:
-                    pred_responce = cls
-                    break
-            if resp == pred_responce:
-                correct_predictions += 1.0
-            pbar.update(1)
+    #with tqdm(total=len(correct_responces)) as pbar:
+        #pbar.set_description("Evaluating questions")
+    for i in range(len(correct_responces)):
+        resp = correct_responces[i]
+        question = train_data.iloc[i:i + 1]
+        pred_responce = None
+        for col, threshold, cls in model:
+            # print int(question[col])
+            if int(question[col]) <= threshold:
+                pred_responce = cls
+                break
+        if resp == pred_responce:
+            correct_predictions += 1.0
+            #pbar.update(1)
 
     return correct_predictions / len(correct_responces)
 
@@ -170,7 +170,7 @@ def main():
         #adaboost_model = train_model(train_data, correct_responces)
 
         print "Training started: {0}".format(datetime.datetime.now())
-        model = learn_decision_tree(train_data, correct_responces, alpha_order)
+        model = learn_decision_tree(train_data, correct_responces, alpha_order, def_ratio_search_dist)
         print "Training Ended: {0}".format(datetime.datetime.now())
 
         print "Evaluation started: {0}".format(datetime.datetime.now())
