@@ -14,9 +14,9 @@ import statistics_utils as su
 import decision_trees as dt
 
 
-experiment_count = 2 ** 1
+experiment_count = 50 ** 1
 
-bins_num = 20
+bins_num = 10
 
 
 def get_accuracy_list(model, train_data, correct_responces):
@@ -94,7 +94,7 @@ def main():
         plt.hist(len_list, bins=bins_num)
         plt.xlabel('Height')
         plt.ylabel('Appearances')
-        plt.savefig("Experiments/Experiment8/HeightDist.png")
+        plt.savefig("Experiments/Experiment8/MedHeightDist.png")
 
         ###########################################################
 
@@ -106,7 +106,7 @@ def main():
         plt.plot(len_list, full_acc_list, 'bo')
         plt.xlabel('Height')
         plt.ylabel('Accuracy')
-        rnd_line = plt.ayvline(random_acc, c='g', label='Random guess')
+        rnd_line = plt.axhline(random_acc, c='g', label='Random guess')
 
         #adding linear regression
         len_list = np.array(len_list)
@@ -115,8 +115,8 @@ def main():
         model.fit(x_pred, full_acc_list)
         y_pred = model.predict(x_pred)
         lin_reg_line = plt.plot(len_list, y_pred, 'r', label='Linear regression')
-        plt.legend(handles=[rnd_line, lin_reg_line], loc='upper left')
-        plt.savefig("Experiments/Experiment8/HeightToAccuracyFullTree.png")
+        plt.legend(handles=[rnd_line], loc='upper left')
+        plt.savefig("Experiments/Experiment8/MedHeightToAccuracyFullTree.png")
 
         ###########################################################
 
@@ -128,7 +128,7 @@ def main():
         plt.plot(all_len_list, all_acc_list, 'bo')
         plt.xlabel('Height')
         plt.ylabel('Accuracy')
-        rnd_line = plt.ayvline(random_acc, c='g', label='Random guess')
+        rnd_line = plt.axhline(random_acc, c='g', label='Random guess')
 
         # adding linear regression
         all_len_list = np.array(all_len_list)
@@ -137,8 +137,8 @@ def main():
         model.fit(x_pred, all_acc_list)
         y_pred = model.predict(x_pred)
         lin_reg_line = plt.plot(all_len_list, y_pred, 'r', label='Linear regression')
-        plt.legend(handles=[rnd_line, lin_reg_line], loc='upper left')
-        plt.savefig("Experiments/Experiment8/HeightToAccuracyReducedTree.png")
+        plt.legend(handles=[rnd_line], loc='upper left')
+        plt.savefig("Experiments/Experiment8/MedHeightToAccuracyReducedTree.png")
 
 
 if __name__ == "__main__":
